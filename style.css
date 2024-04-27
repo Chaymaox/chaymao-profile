@@ -1,0 +1,138 @@
+body {
+	background-color: transparent;
+	backface-visibility: ;
+}
+ 
+ h1 {
+ 	font-family: EMOJI;
+ 	font-weight: 50;
+ 	font-size: 40px;
+ 	font-spacing: 10px;
+ 	text-transform: uppercase;
+
+ }
+
+.P {
+	color: #322C2B;
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  margin: 40 auto;
+  font-size: 20PX;
+}
+
+.a {
+	text-decoration: none;
+	
+}
+.a :hover {
+	color: #AC7D88;
+}
+
+
+.p {
+	margin: 90 40 10 ;
+    
+}
+body {
+  background: url('https://getwallpapers.com/wallpaper/full/1/8/2/74758.jpg') no-repeat center center;
+  background-size: 1400px 700px;
+  background-position: 30%;
+  background-attachment: fixed;
+}
+.white-card {
+	background: transparent;
+	border: 2PX #113946 ;
+	margin: 20px auto ;
+	border-radius: 7px;
+	box-shadow: 2px 2px 3px #607274;
+	width: 700px;
+	padding: 40PX auto;
+text-align: center;
+color: black;
+
+}
+ 
+
+ .H1 {
+ 	text-align: center ;
+ 	font-size: 50PX;
+ 	  }
+
+
+
+.img-circle  {
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  -webkit-border-radius: 75%;
+  -moz-border-radius: 75%;
+  box-shadow: 0 0 0 1px #eee;
+  margin: auto;
+  margin-top: 30PX;
+  align-content: center;
+}
+	
+
+.trick {
+  display: inline-block;
+  vertical-align: middle;
+  height: 150px;
+}
+
+.img-circle:hover {
+  box-shadow: 0px 5px 20px .9px #3F3F3F;
+}
+
+.img-circle:hover {
+  -webkit-transform: scale(1.12);
+  transform: scale(1.12);
+  -webkit-transition: 1.6s ease-in-out;
+  transition: 1.6s ease-in-out;
+}
+
+
+
+.trick:hover img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  }
+
+.list-line LI  {
+list-style: NONE;
+font-size: 30PX ;
+display: inline;
+padding: 10PX;
+margin: 50 50 50;
+}
+.list-line {
+	list-style: none ;
+}
+
+.btn-blue {
+	background-color: #B3C8CF;
+	color: WHITE ;
+	padding:15PX 20PX  ;
+	border-radius:4PX ;
+
+}
+
+.btn-blue : hover {
+	background-color: black ;
+	color: white;
+}
+
+.h2 {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+.H3 {
+	font-size: 22PX;
+	margin: 30 auto;
+	text-align: center;
+	padding: 20 10 10 ;
+}
